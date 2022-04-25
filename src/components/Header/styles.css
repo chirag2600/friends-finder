@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 8vw;
+  margin-right: 8vw;
+  margin-top: 3vh;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+li {
+  padding: 0px 20px;
+}
